@@ -1,1 +1,1 @@
-# fiend
+# fiend - dependency traversal webapp
